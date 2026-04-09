@@ -1,0 +1,5 @@
+{
+  "name": "AI WhatsApp Auto-Responder",
+  "description": "A smart WhatsApp bot that automatically replies to unknown numbers using Gemini AI, with real-time monitoring and auto-pause when you are online.",
+  "requestFramePermissions": []
+}
