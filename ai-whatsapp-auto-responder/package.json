@@ -1,17 +1,11 @@
-"scripts": {
-  "dev": "tsx server.ts",
-  "build": "vite build",
-  "preview": "vite preview",
-  "clean": "rm -rf dist",
-  "lint": "tsc --noEmit"
-}
 {
-  "name": "react-example",
+  "name": "ai-whatsapp-bot",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
+    "start": "tsx server.ts",
     "build": "vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist",
